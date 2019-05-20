@@ -1,4 +1,4 @@
-# freeze-BN-for-TransferLearning
+# freeze BatchNormalization layer for Transfer Learning
 The problem is "The BatchNormalization layer of Keras is broken" which can be seen in the blog bellow:
 http://blog.datumbox.com/the-batch-normalization-layer-of-keras-is-broken/
 
