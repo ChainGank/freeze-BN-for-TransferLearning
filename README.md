@@ -1,5 +1,5 @@
 # freeze-BN-for-TransferLearning
-The problem is "The Batch Normalization layer of Keras is broken" which can be seen in the blog bellow:
+The problem is "The BatchNormalization layer of Keras is broken" which can be seen in the blog bellow:
 http://blog.datumbox.com/the-batch-normalization-layer-of-keras-is-broken/
 
 Briefly, it can be described as "how to use moving_mean&&var(pre-trained model's dataset) instead of the mean&&var caculated by mini-batch during finetuning".
